@@ -7,7 +7,7 @@ Soy un profesional apasionado por la tecnología, con experiencia como **Desarro
 Me encanta crear soluciones prácticas que combinan el desarrollo de software con el análisis de datos para resolver problemas reales.
 
 
-## 💻 Desarrolladora 
+## 💻 Desarrollador
 
 🔧 Tecnologías principales:
 - Backend: Java (Spring Boot), Python, R
@@ -19,7 +19,7 @@ Me encanta crear soluciones prácticas que combinan el desarrollo de software co
 - [Nombre del proyecto 2](link): Breve descripción
 
 ---
-## 📊 Científica de Datos
+## 📊 Científico de Datos
 
 🧠 Skills:
 - Python (Pandas, NumPy, Scikit-learn)
