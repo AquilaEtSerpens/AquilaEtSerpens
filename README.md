@@ -30,3 +30,9 @@ Me encanta crear soluciones prácticas que combinan el desarrollo de software co
 📌 Proyectos destacados:
 - [Predicción de estado de bombas de agua en Tanzania](link): Modelado y análisis de datos geoespaciales
 - [Predicción de precios de acciones con estados financieros](link): Modelos supervisados y análisis financiero
+
+  ## 📫 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pedro-lazcano-alvarez-4390b3170/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Web-blueviolet)](https://tusitio.com)
+
