@@ -1,12 +1,12 @@
 ## Hola, soy Pedro Lazcano 👋
 
-<!--
+
 **AquilaEtSerpens/AquilaEtSerpens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Soy un profesional apasionado por la tecnología, con experiencia como **Desarrollador Backend**, con estudios en Ciencia de Datos,  Finanzas y Economía .
 Me encanta crear soluciones prácticas que combinan el desarrollo de software con el análisis de datos para resolver problemas reales.
 
----
+
 ## 💻 Desarrolladora 
 
 🔧 Tecnologías principales:
